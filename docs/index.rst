@@ -21,3 +21,5 @@ Contents
    usage
    api
    markdowntext
+   markdown2
+   
